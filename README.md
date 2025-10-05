@@ -1,4 +1,5 @@
 # 🍔 In-N-Out Style Ordering (Tkinter GUI)
+**Author:** Alen Chavez
 
 A desktop GUI (Tkinter) that simulates a simple fast-food ordering flow. Users add items/combos to a cart, view totals with tax, remove items, and complete a checkout/confirmation screen that shows an order number and timestamp. The logo image is optional: place `Logo.png` in the **same folder** as `main.py` and it will render automatically.
 
@@ -25,5 +26,6 @@ A desktop GUI (Tkinter) that simulates a simple fast-food ordering flow. Users a
 ## 📂 Project Structure
 ```text
 burger-ordering-gui/
-├── main.py        ← main Tkinter app
-└── Logo.png       ← optional logo (same folder as main.py)
+├── main.py         ← main Tkinter app
+├── Logo.png        ← optional logo (same folder as main.py)
+└── README.md       ← project documentation (Author: Alen Chavez)
