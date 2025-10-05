@@ -27,3 +27,6 @@ A desktop GUI (Tkinter) that simulates a simple fast-food ordering flow. Users a
 burger-ordering-gui/
 ├── main.py        ← main Tkinter app
 └── Logo.png       ← optional logo (same folder as main.py)
+```
+#Arthur:
+-Alen Chavez
